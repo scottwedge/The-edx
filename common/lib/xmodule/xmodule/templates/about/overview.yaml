@@ -1,0 +1,54 @@
+---
+metadata:
+    display_name: overview
+
+data: |
+    <section class="about">
+      <h2>关于这个课程</h2>
+      <p>在这里填写课程的大段描述。这个描述一般包括150到400字。</p>
+
+      <p>这里是课程描述的第二自然段，如果您需要添加更多的自然段，请使用p标签仿写本段，请确认闭合自然段。</p>
+    </section>
+
+    <section class="prerequisites">
+      <h2>课程要求</h2>
+      <p>添加更多关于学生学习这门课许要掌握的技能和知识。</p>
+    </section>
+
+    <section class="course-staff">
+      <h2>教师信息</h2>
+      <article class="teacher">
+        <div class="teacher-image">
+          <!--<img src="在下面对应位置填写教师照片链接" align="left" style="margin:0 20 px 0" alt="第1位教师姓名">-->
+          <img src="/static/images/placeholder-faculty.png" align="left" style="margin:0 20 px 0" alt="第1位教师姓名">
+        </div>
+
+        <h3>第1位教师姓名</h3>
+        <p>第1位教师简介，如果需要可以添加更多自然段。</p>
+      </article>
+
+      <article class="teacher">
+        <div class="teacher-image">
+          <img src="/static/images/placeholder-faculty.png" align="left" style="margin:0 20 px 0" alt="第2位教师姓名">
+        </div>
+
+        <h3>第2位教师姓名</h3>
+        <p>第2位教师简介，如果需要可以添加更多自然段。</p>
+      </article>
+    </section>
+
+    <section class="faq">
+      <section class="responses">
+        <h2>常见问题</h2>
+        <article class="response">
+          <h3>第1个常见问题？</h3>
+          <p>第1个问题的解答。同理如果需要多个自然段请仿写上面的格式。</p>
+          <p>这里第1个问题的第2个自然段</p>
+        </article>
+
+        <article class="response">
+          <h3>第2个常见问题？</h3>
+          <p>第2个问题的答案。格式同上，不再赘述。</p>
+        </article>
+      </section>
+    </section>
